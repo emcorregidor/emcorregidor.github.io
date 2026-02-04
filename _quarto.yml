@@ -7,12 +7,11 @@ project:
     - "assets"
 
 website:
-  title: "JVC"
-  favicon: "./assets/img/jvc_favicon.png"
-  twitter-card: true
-  site-url: "https://www.jvcasillas.com"
+  title: "EVA MARIA"
+  twitter-card: false
+  favicon: "./assets/img/headshot_1.jpeg"
+  site-url: "https://www.emcorregidor.github.io"
   open-graph: true
-  google-analytics: "UA-49437230-1"
   navbar:
     background: white
     left:
@@ -20,19 +19,15 @@ website:
         href: about.html
       - text: "Research"
         href: research.html
-      - text: "Code"
-        href: code.html
       - text: "Teaching"
         href: teaching.html
-      - text: "Posts"
-        href: blog.html
+#      - text: "Posts"
+#        href: blog.html
     right:
       - icon: github
-        href: https://github.com/jvcasillas
-      - icon: twitter
-        href: https://twitter.com/jvcasill
-      - icon: rss
-        href: blog.xml
+        href: https://github.com/emcorregidor
+#      - icon: linkedin
+#        href: PUT LINK TO LINKEDIN PAGE HERE
   page-footer:
     center: 
       - text: "© Copyright 2025"
