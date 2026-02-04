@@ -10,7 +10,7 @@ about:
   image-shape: round
   links:
     - text: "{{< fa envelope size=2xl >}}"
-      href: mailto:joseph.casillas@rutgers.edu
+      href: mailto:eva.corregidor@rutgers.edu
     - text: "{{< fa brands github size=2xl >}}"
       href: https://github.com/emcorregidor
 #    - text: "{{< ai orcid size=2xl >}}"
