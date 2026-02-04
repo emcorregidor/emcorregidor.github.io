@@ -15,8 +15,6 @@ website:
   navbar:
     background: white
     left:
-      - text: "About"
-        href: about.html
       - text: "Research"
         href: research.html
       - text: "Teaching"
